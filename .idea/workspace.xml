@@ -26,24 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node_error_library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/node_error_library.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/node_error_library/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_error_library.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/node_error_library_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/node_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_error_library/version.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,8 +109,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584537008905</updated>
-      <workItem from="1584537010569" duration="5420000" />
+      <workItem from="1584537010569" duration="5705000" />
     </task>
+    <task id="LOCAL-00001" summary="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete.">
+      <created>1584546606631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584546606631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
         <option name="defaultSearch" value="Board NodeError: 0.1.0 #{ Deploy Preparation} " />
@@ -136,27 +129,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete." />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete." />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="424" y="175" key="#Servers" timestamp="1584537144704">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="424" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1584537144704" />
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1584545916797">
+    <state x="419" y="112" key="CommitChangelistDialog2" timestamp="1584546606226">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1584545916797" />
-    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1584545916797">
+    <state x="419" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1584546606226" />
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1584546841687">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1584545916797" />
-    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1584545916796">
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1584546841687" />
+    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1584546841686">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1584545916796" />
-    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1584545916797">
+    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1584546841686" />
+    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1584546841686">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1584545916797" />
+    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1584546841686" />
+    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1584546841686">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1584546841686" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1584546618574">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1584546618574" />
     <state x="416" y="235" width="816" height="550" key="find.popup" timestamp="1584541306691">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
