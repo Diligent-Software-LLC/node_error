@@ -25,12 +25,15 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible.">
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/node_error_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_error_library.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/node_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_error_library/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_error_library.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/node_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/node_error_library_test.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584537008905</updated>
       <workItem from="1584537010569" duration="6184000" />
-      <workItem from="1586475606449" duration="847000" />
+      <workItem from="1586475606449" duration="2159000" />
     </task>
     <task id="LOCAL-00001" summary="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete.">
       <created>1584546606631</created>
@@ -141,10 +144,17 @@
       <option name="project" value="LOCAL" />
       <updated>1584546895200</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Setup Complete&#10;&#10;Edited version.rb. Rewrote Gem Specification.">
+      <created>1586484732043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586484732043</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Node Subsystem: Error Component: Library #Setup " />
+        <option name="defaultSearch" value="project: Node Subsystem: Error Component: Library #Development " />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -168,7 +178,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete." />
     <MESSAGE value="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible." />
-    <option name="LAST_COMMIT_MESSAGE" value="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible." />
+    <MESSAGE value="Setup Complete&#10;&#10;Edited version.rb. Rewrote Gem Specification." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Edited version.rb. Rewrote Gem Specification." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -176,44 +187,44 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="424" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1584537144704" />
-    <state x="419" y="112" key="CommitChangelistDialog2" timestamp="1584546901465">
+    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2" timestamp="1586484731570">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="419" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1584546901465" />
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1586484621294">
+    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586484731570" />
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1586485958684">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1586484621294" />
-    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1586484621293">
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1586485958684" />
+    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1586485958684">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1586484621293" />
-    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1586484621292">
+    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1586485958684" />
+    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1586485958683">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1586484621292" />
-    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1586484621293">
+    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1586485958683" />
+    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1586485958684">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1586484621293" />
+    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1586485958684" />
     <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1584547098591">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1584547098591" />
-    <state x="416" y="235" width="816" height="550" key="find.popup" timestamp="1584541306691">
+    <state x="416" y="235" width="816" height="550" key="find.popup" timestamp="1586485142510">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="416" y="235" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1584541306691" />
+    <state x="416" y="235" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1586485142510" />
     <state x="511" y="235" width="670" height="675" key="run.anything.popup" timestamp="1584547304011">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="511" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1584547304011" />
-    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1584539320904">
+    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1586485150922">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1584539320904" />
+    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1586485150922" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/node_error_library@NodeErrorLibraryTest.rcov" NAME="NodeErrorLibraryTest Coverage Results" MODIFIED="1584545911352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="node_error_library" />
+    <SUITE FILE_PATH="coverage/node_error_library@NodeErrorLibraryTest.rcov" NAME="NodeErrorLibraryTest Coverage Results" MODIFIED="1586485953081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="node_error_library" />
   </component>
 </project>
