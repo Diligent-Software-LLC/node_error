@@ -25,15 +25,9 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="">
+    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="Development Complete&#10;&#10;Fixed console bug. Edited copyright statements. Added YARDocumentation. Formatted node_error_library_test.rb. Added the GNU General Public License, Version 3. Fixed README.md Installation and Documentation links. Added a .yardopts file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/node_error_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_error_library.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/node_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_error_library/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/node_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/node_error_library_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="279" />
+    <option name="myElementSize" value="356" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -128,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584537008905</updated>
       <workItem from="1584537010569" duration="6184000" />
-      <workItem from="1586475606449" duration="2159000" />
+      <workItem from="1586475606449" duration="2785000" />
     </task>
     <task id="LOCAL-00001" summary="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete.">
       <created>1584546606631</created>
@@ -151,10 +145,17 @@
       <option name="project" value="LOCAL" />
       <updated>1586484732043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Development Complete&#10;&#10;Fixed console bug. Edited copyright statements. Added YARDocumentation. Formatted node_error_library_test.rb. Added the GNU General Public License, Version 3. Fixed README.md Installation and Documentation links. Added a .yardopts file.">
+      <created>1586486255434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586486255434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Node Subsystem: Error Component: Library #Development " />
+        <option name="defaultSearch" value="project: Node Subsystem: Error Component: Library #{Prepare Deployment} " />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -179,7 +180,8 @@
     <MESSAGE value="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete." />
     <MESSAGE value="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible." />
     <MESSAGE value="Setup Complete&#10;&#10;Edited version.rb. Rewrote Gem Specification." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Edited version.rb. Rewrote Gem Specification." />
+    <MESSAGE value="Development Complete&#10;&#10;Fixed console bug. Edited copyright statements. Added YARDocumentation. Formatted node_error_library_test.rb. Added the GNU General Public License, Version 3. Fixed README.md Installation and Documentation links. Added a .yardopts file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;Fixed console bug. Edited copyright statements. Added YARDocumentation. Formatted node_error_library_test.rb. Added the GNU General Public License, Version 3. Fixed README.md Installation and Documentation links. Added a .yardopts file." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -187,10 +189,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="424" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1584537144704" />
-    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2" timestamp="1586484731570">
+    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2" timestamp="1586486294433">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586484731570" />
+    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586486294433" />
     <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1586485958684">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
