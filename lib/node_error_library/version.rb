@@ -2,8 +2,8 @@
 # under the MIT License.
 
 # NodeErrorLibrary.
-# @abstract
-# A Node data structure type error library.
+# @class_description
+#   A Node data structure error library.
 class NodeErrorLibrary
-  VERSION = '2.0.0'.freeze()
+  VERSION = '3.0.0'.freeze()
 end

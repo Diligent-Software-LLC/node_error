@@ -25,10 +25,12 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="">
+    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible.">
+      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/node_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_error_library/version.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_error_library.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,12 @@
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/coverage" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZIqZDJE3p6lwdhdmyRMf0CYI0c" />
@@ -57,10 +65,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.youtrack.notifications" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mkdir artifacts" />
+      <command value="mv node_error-2.0.0.gem artifacts" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="NodeErrorLibraryTest" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
@@ -109,7 +124,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584537008905</updated>
-      <workItem from="1584537010569" duration="5705000" />
+      <workItem from="1584537010569" duration="6184000" />
+      <workItem from="1586475606449" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete.">
       <created>1584546606631</created>
@@ -118,10 +134,17 @@
       <option name="project" value="LOCAL" />
       <updated>1584546606631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible.">
+      <created>1584546895200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584546895200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="Board NodeError: 0.1.0 #{ Deploy Preparation} " />
+        <option name="defaultSearch" value="project: Node Subsystem: Error Component: Library #Setup " />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -129,9 +152,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete." />
-    <option name="LAST_COMMIT_MESSAGE" value="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete." />
+    <MESSAGE value="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible." />
+    <option name="LAST_COMMIT_MESSAGE" value="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -139,34 +176,38 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="424" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1584537144704" />
-    <state x="419" y="112" key="CommitChangelistDialog2" timestamp="1584546606226">
+    <state x="419" y="112" key="CommitChangelistDialog2" timestamp="1584546901465">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="419" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1584546606226" />
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1584546841687">
+    <state x="419" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1584546901465" />
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1586484621294">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1584546841687" />
-    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1584546841686">
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1586484621294" />
+    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1586484621293">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1584546841686" />
-    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1584546841686">
+    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1586484621293" />
+    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1586484621292">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1584546841686" />
-    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1584546841686">
+    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1586484621292" />
+    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1586484621293">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1584546841686" />
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1584546618574">
+    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1586484621293" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1584547098591">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1584546618574" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1584547098591" />
     <state x="416" y="235" width="816" height="550" key="find.popup" timestamp="1584541306691">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="416" y="235" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1584541306691" />
+    <state x="511" y="235" width="670" height="675" key="run.anything.popup" timestamp="1584547304011">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="511" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1584547304011" />
     <state x="489" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1584539320904">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
