@@ -7,6 +7,6 @@ require 'node_error_impl'
 
 # NodeErrorLibrary.
 # @class_description
-#   A Node data structure error library.
+#   A NodeError library. Organizes the NodeError components.
 class NodeErrorLibrary
 end
