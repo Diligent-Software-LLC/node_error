@@ -1,17 +1,23 @@
 # node_error [![Gem Version](https://badge.fury.io/rb/node_error.svg)](https://badge.fury.io/rb/node_error) ![Gem](https://img.shields.io/gem/dt/node_error)
 
-A Node data structure error library.
+A NodeError library. Organizes the NodeError components.
 
 ## Installation
 
-- Refer the Library's Package 
-[Installation](https://docs.diligentsoftware.org/node-1/error/packages#library_installation) 
-section.
+- Refer Library's 
+[Packages](https://docs.diligentsoftware.org/node-1/error/packages#library_installation).
 
 ## Documentation
 
-- Refer the Node homepage's 
-[Error](https://docs.diligentsoftware.org/node#error) section.
+### Interface
+
+- Refer Interface's 
+[Homepage](https://docs.diligentsoftware.org/node-1/error/interface).
+
+### Implementation
+
+- Refer Implementation's 
+[Homepage](https://docs.diligentsoftware.org/node-1/error/implementation).
 
 ## Contributing
 
@@ -36,4 +42,3 @@ donations are available at $1, $2, $4, $8, and $16. Greatly appreciated.
 
 - Refer the 
 [Improvements Procedure](https://github.com/Diligent-Software-LLC/node_error/issues/3).
-

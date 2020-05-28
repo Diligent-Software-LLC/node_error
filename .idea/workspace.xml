@@ -25,9 +25,12 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="Development Complete&#10;&#10;Fixed console bug. Edited copyright statements. Added YARDocumentation. Formatted node_error_library_test.rb. Added the GNU General Public License, Version 3. Fixed README.md Installation and Documentation links. Added a .yardopts file.">
+    <list default="true" id="98bc0b37-ed7a-436c-9e16-324c80eb7644" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/node_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_error_library/version.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_error_library.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +70,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="ytplugin.issueListCompactView" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artifacts" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -122,7 +131,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584537008905</updated>
       <workItem from="1584537010569" duration="6184000" />
-      <workItem from="1586475606449" duration="2785000" />
+      <workItem from="1586475606449" duration="3389000" />
+      <workItem from="1590692179923" duration="1746000" />
     </task>
     <task id="LOCAL-00001" summary="0.1.0 Release&#10;&#10;Setup, In Progress, Prepare Deploy complete.">
       <created>1584546606631</created>
@@ -152,10 +162,17 @@
       <option name="project" value="LOCAL" />
       <updated>1586486255434</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Prepare Deployment&#10;&#10;Changelog.md updated.">
+      <created>1586486618011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586486618011</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Node Subsystem: Error Component: Library #{Prepare Deployment} " />
+        <option name="defaultSearch" value="project: Node Subsystem: Error Component: Library State: {Setup} Sprints: 10" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -181,7 +198,8 @@
     <MESSAGE value="2.0.0 Release&#10;&#10;Changes are 1.0.0 incompatible." />
     <MESSAGE value="Setup Complete&#10;&#10;Edited version.rb. Rewrote Gem Specification." />
     <MESSAGE value="Development Complete&#10;&#10;Fixed console bug. Edited copyright statements. Added YARDocumentation. Formatted node_error_library_test.rb. Added the GNU General Public License, Version 3. Fixed README.md Installation and Documentation links. Added a .yardopts file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;Fixed console bug. Edited copyright statements. Added YARDocumentation. Formatted node_error_library_test.rb. Added the GNU General Public License, Version 3. Fixed README.md Installation and Documentation links. Added a .yardopts file." />
+    <MESSAGE value="Prepare Deployment&#10;&#10;Changelog.md updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prepare Deployment&#10;&#10;Changelog.md updated." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -189,30 +207,30 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="424" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1584537144704" />
-    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2" timestamp="1586486294433">
+    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2" timestamp="1586486617718">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586486294433" />
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1586485958684">
+    <state x="111" y="46" width="1459" height="897" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1586486617718" />
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1586487125752">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1586485958684" />
-    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1586485958684">
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1586487125752" />
+    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1586487125751">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1586485958684" />
-    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1586485958683">
+    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1586487125751" />
+    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1586487125750">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1586485958683" />
-    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1586485958684">
+    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1586487125750" />
+    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1586487125752">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1586485958684" />
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1584547098591">
+    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1586487125752" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2" timestamp="1586487176879">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1584547098591" />
+    <state x="446" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1586487176879" />
     <state x="416" y="235" width="816" height="550" key="find.popup" timestamp="1586485142510">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -221,10 +239,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="511" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1584547304011" />
-    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1586485150922">
+    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1590694355084">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1586485150922" />
+    <state x="489" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1590694355084" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/node_error_library@NodeErrorLibraryTest.rcov" NAME="NodeErrorLibraryTest Coverage Results" MODIFIED="1586485953081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="node_error_library" />

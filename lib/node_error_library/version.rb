@@ -3,7 +3,7 @@
 
 # NodeErrorLibrary.
 # @class_description
-#   A Node data structure error library.
+#   A NodeError library. Organizes the NodeError components.
 class NodeErrorLibrary
-  VERSION = '3.0.0'.freeze()
+  VERSION = '4.0.0'.freeze()
 end
