@@ -1,5 +1,20 @@
 # Changelog
 
+## v4.0.0, 2020-05-28
+
+### Added
+
+- Test coverage.
+
+### Edited
+
+- Updated source documentation.
+- Updated Gem Specification's email, summary, description, homepage, 
+changelog URI, and dependencies.
+- Rewrote README.md.
+
+### Fixed
+
 ## v3.0.0, 2020-04-09
 
 ### Added
